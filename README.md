@@ -1,6 +1,6 @@
 ## Code-Refactor
 UCF Coding Bootcamp Week 1 Challange. 
-This challenge focused on Rectoring non semantic code of the Horiseon 
+This challenge focused on Rectoring non semantic code of the Horiseon <br>
 <a href="https://cpicha20.github.io/Code-Refactor/" target="_blank">Visit Site</a> 🚀
 
 
