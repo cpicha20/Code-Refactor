@@ -14,3 +14,4 @@ This challenge focused on Rectoring non semantic  html tags of the Horiseon into
 
 ## Preview 
 
+![Preview](/assets/images/Preview.png)
